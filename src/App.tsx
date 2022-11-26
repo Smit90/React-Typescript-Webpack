@@ -1,6 +1,6 @@
-import './styles.css'
-import Image from './devops.png'
-import Laugh from './laughing.svg'
+import './styles/styles.css'
+import Image from './assets/devops.png'
+import Laugh from './assets/laughing.svg'
 import { ClickCounter } from './ClickCounter'
 
 export const App = () => {
